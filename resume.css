@@ -45,7 +45,7 @@ div.three{
   left:300px;
 }
 
-button:before{
+button{
   position:absolute;
   top:20px;
   left:700px;
