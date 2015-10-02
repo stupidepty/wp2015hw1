@@ -45,11 +45,10 @@ div.three{
   left:300px;
 }
 
-button:link{
+button{
   position:absolute;
   top:20px;
   right:300px;
-  content: " " url(like.jpg);
 }
 
 button:visited{
