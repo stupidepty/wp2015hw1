@@ -26,3 +26,8 @@ strong{
   font: bold 250%;
 }
 
+div.one{
+  position:absolute;
+  top:350px;
+  left:50px;
+}
