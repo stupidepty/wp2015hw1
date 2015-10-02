@@ -45,9 +45,17 @@ div.three{
   left:300px;
 }
 
-button{
+button:before{
   position:absolute;
   top:20px;
   left:700px;
+  content: " " url(like.jpg);
+}
+
+button:after{
+  position:absolute;
+  top:20px;
+  left:700px;
+  content: " " url(handsome.jpg);
 }
 
