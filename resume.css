@@ -3,5 +3,8 @@ background: url("Blue-rule.png");
 }
 
 #1 {
-  content: " " url(profile.jpg);
+  position:fixed;
+  top:0px;
+  left:20px;
 }
+
