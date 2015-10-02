@@ -51,6 +51,9 @@ button{
   left:700px;
 }
 
-span.star{
-  content: " " url(star.jpg) ;
+
+img.star1{
+  position:absolute;
+  top:400px;
+  left:700px;
 }
