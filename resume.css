@@ -59,7 +59,7 @@ button:active{
   content: " " url(handsome.jpg);
 }
 
-li.star{
+li.star::after{
   content: " " url(star.jpg);
   content: " " url(star.jpg);
   content: " " url(star.jpg);
