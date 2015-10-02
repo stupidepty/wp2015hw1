@@ -31,3 +31,9 @@ div.one{
   top:350px;
   left:50px;
 }
+
+div.two{
+  position:absolute;
+  top:350px;
+  left:225px;
+}
