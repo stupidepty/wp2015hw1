@@ -37,3 +37,9 @@ div.two{
   top:350px;
   left:325px;
 }
+
+div.three{
+  position:absolute;
+  top:350px;
+  left:725px;
+}
