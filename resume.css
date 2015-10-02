@@ -1,5 +1,6 @@
 body {
 background: url("Blue-rule.png");
+font: 200%;
 }
 
 
@@ -23,7 +24,7 @@ p {
 }
 
 strong{
-  font: bold 250%;
+  font: bold 450%;
 }
 
 div.one{
@@ -46,6 +47,6 @@ div.three{
 
 button{
   position:absolute;
-  top:50px;
+  top:20px;
   left:700px;
 }
