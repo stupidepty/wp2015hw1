@@ -45,7 +45,7 @@ div.three{
   left:300px;
 }
 
-button{
+button:focus{
   position:absolute;
   top:20px;
   left:700px;
@@ -59,3 +59,10 @@ button:active{
   content: " " url(handsome.jpg);
 }
 
+li.star{
+  content: " " url(star.jpg);
+  content: " " url(star.jpg);
+  content: " " url(star.jpg);
+  content: " " url(star.jpg);
+  content: " " url(star.jpg);
+}
