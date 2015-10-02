@@ -52,7 +52,7 @@ button{
   content: " " url(like.jpg);
 }
 
-button:after{
+button:active{
   position:absolute;
   top:20px;
   left:700px;
