@@ -45,18 +45,10 @@ div.three{
   left:300px;
 }
 
-button:focus{
+button:{
   position:absolute;
   top:20px;
   left:700px;
-  content: " " url(like.jpg);
-}
-
-button:active{
-  position:absolute;
-  top:20px;
-  left:700px;
-  content: " " url(handsome.jpg);
 }
 
 li.star::after{
