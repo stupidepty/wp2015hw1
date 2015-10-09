@@ -18,7 +18,8 @@ p {
 }
 
 strong{
-  font: bold 450%;
+  color:blue;
+  font-size:200%;
 }
 
 div.one{
