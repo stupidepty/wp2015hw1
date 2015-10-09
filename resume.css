@@ -51,9 +51,12 @@ button{
   right:300px;
 }
 
-button:visited{
-  position:absolute;
-  top:20px;
-  right:300px;
-  content: " " url(handsome.jpg);
+.profile{
+   background-image: url('profile.jpg');
+   height: 70px;
+   width: 120px;
+}
+
+.profile:hover {
+   background-image: url('handsome.jpg');
 }
