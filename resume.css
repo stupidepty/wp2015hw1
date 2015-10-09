@@ -63,8 +63,14 @@ div.three{
   left:700px;
 }
 
-button{
+.btn1{
 position:absolute;
   top:220px;
+  left:80px;
+}
+
+.btn2{
+position:absolute;
+  top:240px;
   left:80px;
 }
