@@ -10,12 +10,6 @@ ul {
   left:300px;
 }
 
-img.profile {
-  position:absolute;
-  top:50px;
-  left:80px;
-}
-
 p {
   position:absolute;
   top:250px;
@@ -53,10 +47,14 @@ button{
 
 .profile{
    background-image: url('profile.jpg');
-   height: 70px;
-   width: 120px;
+   position:absolute;
+   top:50px;
+   left:80px;
 }
 
 .profile:hover {
    background-image: url('handsome.jpg');
+   position:absolute;
+   top:50px;
+   left:80px;
 }
