@@ -50,8 +50,8 @@ button{
    position:absolute;
    top:50px;
    left:80px;
-   width:200px;
-   height:300px;
+   width:150px;
+   height:180px;
 }
 
 .profile:hover {
@@ -59,6 +59,4 @@ button{
    position:absolute;
    top:50px;
    left:80px;
-   width:200px;
-   height:300px;
 }
