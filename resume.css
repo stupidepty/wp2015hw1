@@ -39,12 +39,6 @@ div.three{
   left:300px;
 }
 
-button{
-  position:absolute;
-  top:20px;
-  right:300px;
-}
-
 .profile{
    background-image: url('profile.jpg');
    position:absolute;
